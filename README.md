@@ -1,4 +1,4 @@
-# hen2to3migrationsteps
+# hen2to3 migrationsteps
 
 1) Download Helm Binary tar file from the repo ( Depends upon the operating system) 
 
