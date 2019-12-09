@@ -22,4 +22,6 @@
 9) Then rename the helm3 as helm under /usr/local/bin
 
 10) Then we can use helm uninstall <deployment> command  (Instead of using helm delete --purge)
+   
+11) in helm install command instead of --name , go with just name  (helm install --upgrade <deployment> name <name of the release>
 
